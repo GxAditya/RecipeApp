@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favourites_fragment">favourites fragment</string>
+    <string name="home_fragment">home fragment</string>
+    <string name="categories_fragment">categories fragment</string>
+    <string name="home">Home</string>
+    <string name="what_would_you_like_to_eat">What would you like to Eat?</string>
+    <string name="popular_items">Popular Items</string>
+    <string name="categories">Categories</string>
+</resources>
